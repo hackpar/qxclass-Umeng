@@ -1,13 +1,17 @@
 {
   "dependencies": {},
   "dependent_plugins": {},
-  "description": "umeng sdk Plugin",
+  "description": "qxclass-umeng-analytics-sdk",
   "devDependencies": {},
-  "name": "umeng-analytics-sdk",
+  "name": "qxclass-umeng-analytics-sdk",
   "prepare_queue": {
     "installed": [],
     "uninstalled": []
   },
+  "author": {
+    "name": "zhangjiadi"
+  },
+  "license": "MIT",
   "homepage": "https://github.com/hackpar/qxclass-Umeng",
   "readme": "ERROR: No README data found!",
   "version": "3.0.0",
