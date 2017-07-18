@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "dependent_plugins": {},
+  "description": "umeng sdk Plugin",
+  "devDependencies": {},
+  "name": "umeng-analytics-sdk",
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "readme": "ERROR: No README data found!",
+  "version": "3.0.0"
+}
